@@ -1,6 +1,6 @@
 # Inteligencia Artificial - Primer Proyecto: PacMan - Minimax con Poda α – β
 
-Primer proyecto del curso de Sistemas Operativos (código ic-6200) en la carrera de Ingeniería en Computación del Tecnológico de Costa Rica.
+Primer proyecto del curso de Inteligencia Artificial (código ic-6200) en la carrera de Ingeniería en Computación del Tecnológico de Costa Rica.
 
 ![cyberpacmac](https://user-images.githubusercontent.com/56206208/129430058-611a95a5-4a82-455e-898e-16a929198079.png)
 
@@ -53,7 +53,7 @@ Seguidamente, la aplicación se mostrará de la siguiente manera:
 
 ## Estado
 
-El programa funciona correctamente, y fueron implementadas todas las funcionalidades indicadas.
+El programa funciona correctamente, todas las funcionalidades fueron correctamente implementadas.
 
 ## Realizado por:
 
